@@ -944,7 +944,7 @@
 
   (footprint "QRCODE.preety:LTC3105_Eval_V0_QRCode_5x5" (layer "B.Cu")
     (tstamp f87998c6-4012-4971-96f6-e99739e10564)
-    (at 133 106 180)
+    (at 131 101 180)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "B.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
@@ -2202,7 +2202,7 @@
       (stroke (width 0) (type solid)) (fill solid) (layer "B.SilkS") (tstamp 0429aa87-f8f4-46b4-ae96-b8ab11541e6b))
   )
 
-  (gr_rect (start 145 94.1) (end 148 95.2)
+  (gr_rect (start 144.9 94.4) (end 147.9 95.5)
     (stroke (width 0.2) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 892cb401-3947-4cd8-9dfe-a2f30429589d))
   (gr_rect (start 125.73 93.98) (end 153.67 109.22)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 0a256d94-877f-4fff-b720-b7c867da6485))
@@ -2215,7 +2215,7 @@
   (gr_text "POK" (at 128.3 103 270) (layer "F.SilkS") (tstamp 08005450-fa96-4f8f-b5bb-5dea0db74c0d)
     (effects (font (size 0.8 0.8) (thickness 0.12)) (justify left bottom))
   )
-  (gr_text "LTC3105 EVAL V0.0.\n" (at 129.7 95.3) (layer "F.SilkS") (tstamp 303cc630-d631-4f3f-9e03-a64b4e068b24)
+  (gr_text "LTC3105 EVAL V0.0.\n" (at 129.7 95.6) (layer "F.SilkS") (tstamp 303cc630-d631-4f3f-9e03-a64b4e068b24)
     (effects (font (size 1 1) (thickness 0.12)) (justify left bottom))
   )
   (gr_text "LDO" (at 151.1 100.3 90) (layer "F.SilkS") (tstamp 3bad5b5c-8662-4500-bcd3-ac6ddb468b38)
