@@ -25,4 +25,5 @@
   (lib (name "870_Button_SMD")(type "KiCad")(uri "${KIPRJMOD}/../../KicED/footprints/870_Button_SMD.pretty")(options "")(descr ""))
   (lib (name "881_encoders_incremental")(type "KiCad")(uri "${KIPRJMOD}/../../KicED/footprints/881_encoders_incremental.pretty")(options "")(descr ""))
   (lib (name "ked_symbols")(type "KiCad")(uri "${KIPRJMOD}/../../KicED/footprints/ked_symbols.pretty")(options "")(descr ""))
+  (lib (name "QRCODE.preety")(type "KiCad")(uri "${KIPRJMOD}/QRCODE.preety")(options "")(descr ""))
 )
