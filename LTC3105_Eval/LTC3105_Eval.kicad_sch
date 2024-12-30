@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "LTC3105 Evaluation Board")
-		(date "2024-06-23")
-		(rev "V0.0.0")
+		(date "2024-12-30")
+		(rev "V1.0.0")
 		(company "© Edwin Koch 2024, This work is licenced under CERN-OHL-P V 2.0.")
 	)
 	(lib_symbols
@@ -2339,7 +2339,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 225.552 55.88 90)
 			(effects
 				(font
@@ -2436,7 +2436,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10uH"
 			(at 100.33 56.515 0)
 			(effects
 				(font
@@ -2445,7 +2445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Coilcraft_LPS4018"
+		(property "Footprint" "021_inductor:L_Coilcraft_MSS5131-XXX_handsolder"
 			(at 99.06 54.61 0)
 			(effects
 				(font
@@ -2749,7 +2749,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder"
 			(at 73.3552 60.96 0)
 			(effects
 				(font
@@ -2758,7 +2758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/doc?40002"
+		(property "Datasheet" "http://datasheets.kyocera-avx.com/TAJ.pdf"
 			(at 72.39 57.15 0)
 			(effects
 				(font
@@ -2785,7 +2785,7 @@
 				(hide yes)
 			)
 		)
-		(property "dist no" "74-293D106X9025C2TE3 "
+		(property "dist no" "581-TAJA106K006SNJ "
 			(at 72.39 57.15 0)
 			(effects
 				(font
@@ -2794,7 +2794,7 @@
 				(hide yes)
 			)
 		)
-		(property "man" "Vishay"
+		(property "man" "KYOCERA AVX "
 			(at 72.39 57.15 0)
 			(effects
 				(font
@@ -2803,7 +2803,7 @@
 				(hide yes)
 			)
 		)
-		(property "man no" "293D106X9025C2TE3 "
+		(property "man no" "TAJA106K006SNJ"
 			(at 72.39 57.15 0)
 			(effects
 				(font
@@ -3101,7 +3101,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 97.282 78.74 90)
 			(effects
 				(font
@@ -3273,7 +3273,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 174.752 80.01 90)
 			(effects
 				(font
@@ -3789,7 +3789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-6032-28_Kemet-C"
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder"
 			(at 254.9652 68.58 0)
 			(effects
 				(font
@@ -3798,7 +3798,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/doc?40002"
+		(property "Datasheet" "http://datasheets.kyocera-avx.com/TAJ.pdf"
 			(at 254 64.77 0)
 			(effects
 				(font
@@ -3825,7 +3825,7 @@
 				(hide yes)
 			)
 		)
-		(property "dist no" "74-293D106X9025C2TE3 "
+		(property "dist no" "581-TAJA106K006SNJ "
 			(at 254 64.77 0)
 			(effects
 				(font
@@ -3834,7 +3834,7 @@
 				(hide yes)
 			)
 		)
-		(property "man" "Vishay"
+		(property "man" "KYOCERA AVX "
 			(at 254 64.77 0)
 			(effects
 				(font
@@ -3843,7 +3843,7 @@
 				(hide yes)
 			)
 		)
-		(property "man no" "293D106X9025C2TE3 "
+		(property "man no" "TAJA106K006SNJ"
 			(at 254 64.77 0)
 			(effects
 				(font
@@ -3895,7 +3895,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 174.752 91.44 90)
 			(effects
 				(font
@@ -4315,7 +4315,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 225.552 68.58 90)
 			(effects
 				(font
