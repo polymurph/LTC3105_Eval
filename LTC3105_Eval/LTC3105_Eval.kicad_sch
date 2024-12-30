@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "LTC3105 Evaluation Board")
-		(date "2024-06-23")
-		(rev "V0.0.0")
+		(date "2024-12-30")
+		(rev "V1.0.0")
 		(company "© Edwin Koch 2024, This work is licenced under CERN-OHL-P V 2.0.")
 	)
 	(lib_symbols
