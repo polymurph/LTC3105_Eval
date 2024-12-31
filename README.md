@@ -6,6 +6,8 @@
 
 [V1.X.X](https://github.com/polymurph/LTC3105_Eval/tree/V1)
 
+[Latest release](https://github.com/polymurph/LTC3105_Eval/releases/tag/V1_0_0_0_2024_12_30)
+
 <img src="https://github.com/polymurph/LTC3105_Eval/blob/V1/LTC3105_Eval/docu/LTC3105_Eval_Top.png" width="500" height="auto">
 
 <img src="https://github.com/polymurph/LTC3105_Eval/blob/V1/LTC3105_Eval/docu/LTC3105_Eval_Bottom.png" width="500" height="auto">
